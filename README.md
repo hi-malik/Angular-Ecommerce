@@ -26,6 +26,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-Let's get my job in it => `21st Feb 2023` **Day when I'm starting**
+##
+
+Let's get my job in it => `21st Feb 2023` **Day when I'm starting**\
 `27th Feb 2023` **Day when I have its interview**
 
